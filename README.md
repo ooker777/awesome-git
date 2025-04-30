@@ -56,6 +56,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
 * [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 * [No Bullsh\*t Git](https://maciejb2k.github.io/no-bs-git/) - free and complete explanation of git internals and the `.git/` directory.
+* [git gud](https://github.com/benthayer/git-gud) -  Wanna git gud? Then get git-gud, and git gud at git!
+* [git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
 ## Style Guide
 *Style guide when you work with git*
